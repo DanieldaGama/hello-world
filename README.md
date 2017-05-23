@@ -1,6 +1,5 @@
 # hello-world
-Just trying it out
 
-Olá mundo
 
-Meu nome é Daniel e eu to querendo só dar uma gastada com programação
+
+My name is Daniel and i'm just trying this out
