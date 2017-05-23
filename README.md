@@ -2,7 +2,7 @@
 <html lang="en">
  <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="CSS-Try/stylesheets/main.css">
+  <link rel="stylesheet" href="CSS-try/stylesheets/main.css">
  </head>
  <body>
   <h1>The Psichedelic Buda</h1>
