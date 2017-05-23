@@ -1,8 +1,11 @@
-# hello-world
-
-
-
-My name is Daniel and i'm just trying this out
-
-<a>First try:</a>
-<a href="https://www.google.com.br/">Google</a>
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+ </head>
+ <body>
+  <h1>The Psichedelic Buda</h1>
+  <p>Random shit  to see if it works</p>
+  <p>Can I make 2 of those?</p>
+ </body>
+</html>
