@@ -1,8 +1,11 @@
-# hello-world
-
-
-
-My name is Daniel and i'm just trying this out
-
-<a>First try:</a>
-<a href="https://www.google.com.br/">Google</a>
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <title>Hello World</title>
+ </head>
+ <body>
+  <h1>Hello World</h1>
+  <p>This is a new world. Wohoo!</p>
+ </body>
+</html>
