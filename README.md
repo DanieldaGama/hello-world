@@ -2,10 +2,11 @@
 <html lang="en">
  <head>
   <meta charset="utf-8">
+  <title>Psichedelic Buda</title>
  </head>
  <body>
-  <h1>Hello World</h1>
-  <p1>This is a new world. Wohoo!</p1>
-  <p2>Is this gonna work? Let's see.</p2>
+  <h1>The Psichedelic Buda</h1>
+  <p>Random shit  to see if it works</p>
+  <p>Can I make 2 of those?</p>
  </body>
 </html>
