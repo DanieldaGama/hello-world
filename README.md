@@ -2,7 +2,6 @@
 <html lang="en">
  <head>
   <meta charset="utf-8">
-  <title>Psichedelic Buda</title>
  </head>
  <body>
   <h1>The Psichedelic Buda</h1>
